@@ -4,13 +4,17 @@
 
 ### 1. Setup: ⚙️
 **Initialize a new project**
-- `npm init -y`
+```sh
+npm init -y
+```
 
 ### 2. Install dependencies 🖇️
 
 - ⚛️ React and React DOM: (Front end UI library) 
   
-`$ npm install react react-dom`
+```sh 
+$ npm install react react-dom
+```
 
 - 🏭 Babel: (to compile modern es syntax and JSX code) 
   
