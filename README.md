@@ -1,4 +1,4 @@
-# Build Full Stack App From Scratch
+# Build A Full Stack App From Scratch Using JS
 <hr>
 
 
